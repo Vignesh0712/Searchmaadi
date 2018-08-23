@@ -1,0 +1,1174 @@
+﻿/*------------------------------------*/
+/* portrait mode for all devices */
+@media (max-width: 766px) and (orientation: portrait)
+{
+    /* offer page */
+    #offlogo img {
+        width: 60%;
+        margin-top: 8%;
+        margin-left: 20%;
+    }
+    #offinptimg {
+        margin-left: -20px;
+        position: relative;
+        left: 22%;
+        top: -1px;
+        width: 16px;
+    }
+    #offinptban {
+        width: 40%;
+        padding: 4px 11px 4px 38px;
+        border-radius: 30px 0px 0px 30px;
+        border: 1px solid #ED741E;
+        outline: none;
+        font-size: 13px;
+        margin: 8px 0px 0px 45px;
+    }
+    #offinptarea {
+        width: 40%;
+        padding: 4px 12px 4px 8px;
+        border: 1px solid #ED741E;
+        border-radius: 0px 30px 30px 0px;
+        outline: none;
+        font-size: 13px;
+        margin: 15px 0px 0px -5px;
+    }
+    #offinptseh {
+        width: 80%;
+        padding: 4px 12px 4px 8px;
+        border: 1px solid #ED741E;
+        outline: none;
+        font-size: 13px;
+        margin: 3% 0% 0% 12%;
+        border-radius: 30px 30px 30px 30px;
+    }
+    #offlink {
+        margin-top: -172px;
+        margin-left: 76px;
+    }
+    .offhdlink {
+        background-color: #ED741E;
+        font-size: 10px;
+        font-family: Product Sans;
+        padding: 2px 10px 2px 10px;
+        border-radius: 22px;
+        color: white;
+    }
+    .offhdimg {
+        width: 18px;
+    }
+    #offinputsec {
+        margin-left: -8%;
+        margin-top: .5%;
+        margin-bottom: 6px;
+    }
+    #offfilterrow1 {
+        margin-left: 0px;
+        margin-top: 5px;
+    }
+    #offcarousal1 .carousel-inner .carousel-item img{
+    width: 100%;
+    height: 170px;
+    }  
+    .offgallery {
+        position: relative;
+        height: 130px;
+        top: 24px;
+        left:0px;
+        max-width: 300px;
+    }
+    .image {
+        margin-left: 5%;
+        display: block;
+        width: 90%;
+        height: 110px;
+        border-radius: 12px;
+    }
+    .overlay {
+        position: absolute;
+        bottom: 20px;
+        background: rgb(0, 0, 0);
+        background: rgba(0, 0, 0, 0.5);
+        color: #f1f1f1;
+        left: 5%;
+        width: 90%;
+        transition: .5s ease;
+        opacity: 0;
+        color: white;
+        font-size: 8px;
+        padding: 6px;
+        text-align: center;
+        font-family: Product Sans;
+        border-radius: 0px 0px 12px 12px;
+    }
+    .col-md-6.col-sm-6.col-xs-12.r {
+        margin-top: -16px;
+    }
+    .sec5p {
+        font-size: 10px;
+        padding-left: 0px; 
+        padding-right: 0px;
+    }
+    .sec5hd {
+        color: #ED741E;
+        font-size: 10px;
+        margin-left: 2%;
+    }
+    #caro5left {
+        width: 60%;
+        position: relative;
+        left: -25%;
+    }
+    #caro5right {
+        width: 60%;
+        position: relative;
+        left: 25%;
+    }
+    .sec5h6 {
+        color: #ED741E;
+        font-family: Product Sans;
+        font-size: 15px;
+    }
+    .card2h6 {
+        color: black;
+        font-family: Product Sans;
+        font-size: 12px;
+    }
+    .card2sp {
+        font-size: 16px;
+        letter-spacing: 3px;
+        color: #ED741E;
+    }
+    #social_icons img {
+        margin-left: 4px;
+        width: 15px;
+        margin-top: -67px;
+    }
+    #social_icons {
+        margin: 25px 0px 0px 100px;
+    }
+     /* offer page */
+
+     /* --------index page-------- */     
+    #phone {
+        width: 8px;
+    }
+    .headerlink {
+        font-size: 8px;
+        padding: 2px 4px 2px 4px;
+        margin-left: 0px;
+        position: relative;
+        top: -28px;
+    }
+    #headerlink {
+        position: relative;
+        top: -28px;
+        left: 0px;
+    }
+    #headerlink2 {
+        position: relative;
+        top: -28px;
+        left: 0px;
+    }
+    .headerimg {
+        width: 16px;
+        margin-left: 3px;
+        margin-top: -55px;
+    }
+    #logosec {
+        padding-left: 0px !important;
+    }
+    img.headerimg {
+        width: 16px;
+        margin-left: 2px;
+    }
+    #subsec {
+        padding-left: 168px;
+        margin-top: -92px;
+    }
+    #logo {
+        width: 80%;
+        margin-top: 1%;
+        margin-left: 10%;
+        position: relative;
+        top: 0px;
+    }
+    #hdlk {
+        display: inherit;
+        margin-left: 95px;
+        margin-top: 15px;
+    }
+    #h1{
+        font-size: 124%;
+        letter-spacing: 2px;
+    }
+    #p {
+    font-size: 55%;
+    }
+    #inputcity {
+        width: 40%;
+        padding: 2px 12px 2px 25px;
+        border-radius: 30px 0px 0px 30px;
+        font-size: 12px;
+        margin: 0px 0px 0px 12px;
+    }
+    #inputarea {
+        width: 40%;
+        padding: 2px 12px 2px 12px;
+        border-radius: 0px 30px 30px 0px;
+        outline: none;
+        font-size: 12px;
+        margin: 6px 0px 0px -6px;
+    }
+    #inpimg {
+        width: 12px;
+        left: 37px;
+        top: -1px;
+    }
+    #inputany {
+        width: 80%;
+        padding: 2px 12px 2px 16px;
+        border-radius: 30px;
+        font-size: 12px;
+        margin: 6px 0px 2px 28px;
+    }
+    #search {
+        padding: 2px 25px 2px 25px;
+        font-size: 12px;
+        border-radius: 30px;
+        margin-left: 94px;
+        margin-bottom: 5px;
+    }
+    #btnimg {
+        width: 12px;
+        margin-top: -3px;
+    }
+    #idxcarousel1 .carousel-inner img {
+        width: 100%;
+        height: 130px;
+    }
+    #oc {
+        margin-top: 0px;
+        font-size: 22px;
+    }
+    .idxowl1 .item img {
+        width: 80% !important;
+        height: 130px;
+        margin: auto;
+    }
+    img.idxprevBtn {
+        width: 8%;
+        position: absolute;
+        top: 55%;
+        left: 3%;
+    }
+    hr#ochr {
+        margin-top: -16px;
+    }
+    img.idxnextBtn {
+        width: 8%;
+        position: absolute;
+        top: 55%;
+        left: 89%;
+    }
+    #idxcarousel2 .carousel-inner img {
+        width: 100%;
+        height: 130px;
+    }
+    #idxcarousel3 .carousel-inner img {
+        width: 100%;
+        height: 130px;
+    }
+    #idxcarousel4 .carousel-inner img {
+        width: 100%;
+        height: 130px;
+    }
+    #idxcarousel5 .carousel-inner img {
+        width: 100%;
+        height: 130px;
+    }
+    #heading1 {
+        font-size: 18px;
+        margin-top: 5%;
+    }
+    .idxcarohd p {
+        margin-top: 15px;
+        font-size: 15px;
+    }
+    #undln {
+        width: 14%;
+    }
+    .trendimg {
+        width: 60px !important;
+        height: 60px;
+        margin-top: 0%;
+    }
+    .trendhead {
+        font-weight: 500;
+        font-family: Product Sans;
+        margin-left: 6px;
+        font-size: 14px;
+        margin-top: 7%;
+    }
+    #caro4 .carousel-indicators {
+        position: absolute;
+        right: 0;
+        bottom: 32px;
+    }
+    img.idxprevBtn {
+        display: none;
+    }
+    img.idxnextBtn {
+        display: none;
+    }
+
+    
+
+
+
+
+
+
+     /* --------index page-------- */
+
+}
+
+ @media only screen and (min-device-width: 120px) and (max-device-width:320px) and (orientation: portrait){
+
+    /* offer page */
+    #offlink {
+        margin-top: -176px !important;
+        margin-left: 57px !important;
+    }
+    #offlogo img {
+        position: relative;
+        top: 6px;
+        left: -17px;
+        width: 70%;
+        margin-top: 12%;
+        margin-left: 20%;
+    }
+    #offinptseh{
+        margin: 3% 0% 0% 14%;
+    }
+    .offlable1 {
+        margin-left: 142px;
+    }
+    .offlable2 {
+    margin-left: 134px;
+    }
+    #angle-down {
+        margin-left: 153px;
+    }
+    #cprt {
+        font-size: 8px;
+        text-align: center;
+    }
+ } 
+
+ @media only screen and (min-device-width: 321px) and (max-device-width:400px) and (orientation: portrait){
+    #offlink {
+        margin-top: -176px;
+        margin-left: 67px;
+    }
+    #offlogo img {
+        width: 70%;
+        position: relative;
+        left: -25px;
+        top: 12px;
+    }
+    #offinptseh{
+        margin: 3% 0% 0% 13%;
+    }
+    .offlable1 {
+        margin-left: 187px;
+    }
+    .offlable2 {
+        margin-left: 178px;
+    }
+    #angle-down {
+        margin-left: 196px;
+    }
+    #offsearch2 {
+        left: 62px;
+    }
+    #offsearch {
+        left: 62px;
+    }
+    .card2sp {
+        font-size: 27px;
+    }
+    #social_icons {
+        margin: 25px 0px 0px 114px;
+    }
+    #cprt {
+        margin-top: 4px;
+        font-size: 10px;
+        text-align: center;
+    }
+ }
+
+ @media only screen and (min-device-width: 370px) and (max-device-width:380px) and (orientation: portrait){
+    #offlink{
+        margin-left: 73px !important;    
+    }    
+    #offinptseh {
+        margin: 3% 0% 0% 12% !important;
+    }
+    .offgallery {
+        left: 12px;
+    }
+ }
+
+ @media only screen and (min-device-width: 401px) and (max-device-width:420px) {
+    #offlink {
+        margin-top: -192px;
+        margin-left: 102px;
+    }
+    #offlogo img {
+        position: relative;
+        top: 14px;
+        left: -20px;
+        width: 70%;
+    }
+    #offinptban {
+        margin: 20px 0px 0px 59px;
+    }
+    #offinptseh {
+        margin: 3% 0% 0% 14.5%;
+    }
+    .offlable1 {
+        margin-left: 233px;
+    }
+    .offlable2 {
+        margin-left: 225px;
+    }
+    #angle-down {
+        margin-left: 235px;
+    }
+    #offsearch {
+        left: 68px;
+    }
+    #offsearch2 {
+        left: 68px;
+    }
+    .image {
+        margin-left: 14%;
+    }
+    .overlay {
+        left: 14%;
+    }
+    #social_icons {
+        margin: 25px 0px 0px 138px;
+    }
+    #cprt {
+        font-size: 11px;
+        text-align: center;
+    }
+ }
+
+ @media only screen and (min-device-width: 470px) and (max-device-width:480px){
+    #offlink {
+        margin-top: -200px;
+        margin-left: 140px;
+    }
+    #offinptban {
+        margin: 8px 0px 0px 70px;
+    }
+    #offinptseh {
+        margin: 3% 0% 0% 14%;
+    }
+    .offlable1 {
+        margin-left: 290px;
+    }
+    .offlable2 {
+        margin-left: 282px;
+    }
+    #angle-down {
+        margin-left: 60%;
+    }
+    #offsearch {
+        left: 16%;
+    }
+    #offsearch2 {
+        left: 16%;
+    }
+    .offgallery {
+        left: 60px;
+    }
+    #social_icons {
+        margin: 25px 0px 0px 176px;
+    }
+    .overlay{
+        font-size: 10px;
+    }
+    .card2h6 {
+        font-size: 18px;
+    }
+    .card2sp {
+        font-size: 40px;
+        letter-spacing: 10px;
+    }
+    #cprt {
+        font-size: 13px;
+    }
+ }
+
+ @media only screen and (min-device-width: 600px) and (max-device-width:700px){
+    #offlink {
+        margin-top: -214px;
+        margin-left: 170px;
+    }
+    #offlogo img {
+        width: 60%;
+        margin-top: 8%;
+        margin-left: 20%;
+    }
+    #offinptban {
+        margin: 8px 0px 0px 84px;
+    }
+    #offinptseh {
+        margin: 3% 0% 0% 15%;
+    }
+    #offcaro1 {
+        margin-top: 5px;
+    }
+    #offfilterrow1 {
+        margin-top: 5px;
+    }
+    .offlable1 {
+        margin-left: 42px;
+        font-size: 10px;
+    }
+    .offlable2 {
+        margin-left: 37px;
+        font-size: 10px;
+    }
+    p.offpara {
+        font-size: 10px;
+    }
+    #offsd {
+        margin-left: 6%;
+        padding: 4px 10px 4px 24px;
+        font-size: 12px;
+    }
+    #offsearch {
+        left: 38px;
+        top: 183px;
+    }
+    p.offparas {
+        font-size: 10px;
+    }
+    #offsearch2 {
+        left: 38px;
+        top: 409px;
+    }
+    .image {
+        margin-left: -5%;
+        width: 110%;
+        height: 90px;
+    }
+    .r {
+        margin-top: 0px !important;
+    }
+    .offgallery {
+        height: 80px;
+    }
+    .overlay {
+        bottom: -10px;
+        left: -5%;
+        width: 110%;        
+        font-size: 5px;
+        padding: 5px;        
+    }
+    .sec5h6 {
+        font-size: 12px;
+        position: relative;
+        top: 10px;
+    }
+    .seca {
+        font-size: 8px;
+    }
+    .sec5caroit {
+        padding: 20px 30px 20px 30px;
+    }
+    .sec5p {
+        font-size: 6px;
+        padding-left: 14px;
+        padding-right: 0px;
+    }
+    .sec5hd {
+        font-size: 7px;
+    }
+    .sec5img {
+        width: 6% !important;
+        position: relative;
+        top: 1px;
+    }
+    #caro5left {
+        width: 50%;
+        position: relative;
+        left: -36%;
+    }
+    #caro5right {
+        width: 50%;
+        position: relative;
+        left: 36%;
+    }
+    #cprt {
+        font-size: 15px;
+        text-align: center;
+    }
+    #social_icons {
+        margin: 38px 0px 0px 33%;
+    }
+    #social_icons img {
+        margin-left: 10px;
+        width: 30px;
+        margin-top: -40px;
+    }
+ }
+
+ @media only screen and (min-device-width: 767px) and (max-device-width:800px){
+    #offlogo img {
+        width: 90%;
+        margin-top: 12%;
+        margin-left: -46px;
+    }
+    #offinptban {
+        width: 25%;
+        padding: 2px 4px 2px 20px;
+        font-size: 12px;
+        margin: 15px 0px 0px -35px;
+    }
+    #offinptimg {
+        margin-left: -34px;
+        left: -13px;
+        width: 12px;
+    }
+    #offinptarea {
+        width: 25%;
+        padding: 2px 4px 2px 6px;
+        border: 1px solid #ED741E;
+        outline: none;
+        font-size: 12px;
+        margin: 15px 0px 0px -5px;
+    }
+    #offinptseh {
+        width: 65%;
+        padding: 2px 4px 2px 6px;
+        font-size: 12px;
+        margin: 15px 0px 0px -5px;
+    }
+    #offinputsec {
+        margin-left: -7%;
+        margin-top: 2%;
+    }
+    .offhdlink {
+        background-color: #ED741E;
+        font-size: 7px;
+        padding: 3px 7px 3px 7px;
+    }
+    .offhdimg {
+        width: 16px;
+    }
+    #offh4 {
+        font-size: 13px;
+    }
+    .offlable1 {
+        padding: 0px 8px 0px 8px;
+        font-size: 10px;
+        margin-left: 53px;
+    }
+    .offlable2 {
+        padding: 0px 5px 0px 5px;
+        font-size: 10px;
+        margin-left: 45px;
+    }
+    p.offpara {
+        font-size: 10px;   
+    } 
+    #offsd {
+        width: 90%;
+        padding: 2px 13px 2px 20px;
+    }
+    #offsearch {
+        left: 39px;
+        top: 173px;
+        width: 9px;
+    }
+    .offparas {
+        font-size: 10px !important;
+    }
+    #offsearch2 {
+        position: absolute;
+        width: 9px;
+        left: 39px;
+        top: 398px;
+    }
+    #offcarousal1 .carousel-inner .carousel-item img {
+        width: 100%;
+    }
+    .image {
+        display: block;
+        width: 100%;
+        height: 150px;
+        border-radius: 12px;
+    }
+    .offgallery {
+        left: 0px;
+        height: 150px;
+    }
+    .overlay {
+        bottom: 0px;
+        width: 100%;
+        font-size: 9px;
+    }    
+    .sec5img {
+        width: 8% !important;
+    }
+    .sec5hd {
+        font-size: 8px;
+    }
+    .sec5p {
+        font-size: 7px;
+        padding-left: 14px;
+        padding-right: 0px;
+    }
+    #cprt {
+        font-size: 10px;
+    }
+    #social_icons {
+        margin-left: 65%;
+    }
+    #offfilterrow1 {
+        margin-left: 0px;
+    }
+ }
+
+ @media only screen and (min-device-width: 767px) and (max-device-width:770px){
+    #offfilterrow1 {
+        margin-left: 0px;
+    }
+    #offlogo img {
+        width: 82%;
+        margin-top: 13%;
+        margin-left: -27px;
+    }
+    .card2sp {
+        font-size: 35px;
+    }
+    .sec5h6 {
+        font-size: 12px;
+    }
+    .seca {
+        font-size: 8px;
+    }
+ }
+
+ @media only screen and (min-device-width: 980px) and (max-device-width:1200px){
+    #offlogo img {
+        width: 80%;
+        margin-top: 6%;
+        margin-left: -38px;
+    }
+    #offfilterrow1 {
+        margin-left: 0px;
+    }
+    #offinputsec {
+        margin-left: -9%;
+        margin-top: 1%;
+    }
+    .offhdlink {
+        font-size: 11px;
+        padding: 4px 10px 4px 10px;
+        border-radius: 22px;
+    }
+    #offinptimg {
+        left: -6%;
+    }
+    .offhdimg {
+        width: 23px;
+    }
+    .offlable1 {
+        margin-left: 80px;
+    }
+    .offlable2 {
+        margin-left: 72px;
+    }    
+    #offh4 {
+        font-size: 15px;
+    }
+    #angle-down {
+        margin-left: 96px;
+    }
+    #offsearch {
+        left: 48px;
+        top: 189px;
+    }
+    p.offpara {
+        font-size: 12px;
+    }
+    #offsd {
+        padding: 4px 12px 4px 25px;
+    }
+    #offsearch2 {
+        left: 48px;
+        top: 438px;
+    }
+    .offgallery {
+        left: 0px;
+    }
+    .sec5p {
+        padding-right: 10px;
+    }
+    .card2sp {
+        font-size: 34px;
+    }
+ }
+ /* offer page */
+ 
+
+ /* portrait mode for all devices */
+
+
+
+  /* landspape mode for all devices */
+@media only screen and (min-device-width: 400px) and (max-device-width: 700px) and (orientation: landscape){
+    #offlogo img {
+        width: 60%;
+        margin-top: 10%;
+        margin-left: 20%;
+    }
+    #offlink {
+        margin-left: 145px;
+        margin-top: -242px;
+    }
+    #offinputsec {
+        margin-bottom: 10px;
+    }
+    #offinptseh {
+        width: 80%;
+        padding: 6px 12px 6px 16px;
+        margin: 15px 0px 0px 75px;
+        border-radius: 30px 30px 30px 30px;
+        font-size: 16px;
+    }
+    #offinptban {
+        width: 40%;
+        margin: 8px 0px 0px 72px;
+        padding: 6px 12px 6px 45px;
+        font-size: 16px;
+    }
+    #offinptarea {
+        width: 40%;
+        padding: 6px 12px 6px 13px;
+        border-radius: 0px 30px 30px 0px;
+        font-size: 13px;
+        margin: 15px 0px 0px -5px;
+        font-size: 16px;
+    }
+    #offinptimg {
+        left: 21%;
+        width: 20px;
+    }
+    #offfilterrow1 {
+        margin-left: 0px;
+    }
+    #offcarousal1 .carousel-inner .carousel-item img {
+        width: 100%;
+    }
+    .offgallery {
+        left: 0px;
+    }
+    .card2sp {
+        font-size: 22px;
+    }
+    #social_icons img {
+        margin-left: 14px;
+        width: 20px;
+    }
+}
+
+@media only screen and (min-device-width: 701px) and (max-device-width: 980px) and (orientation: landscape){
+    #offfilterrow1 {
+        margin-left: 0px;
+    }
+    #offlogo img {
+        width: 100%;
+        margin-top: 10%;
+        margin-left: -66px;
+    }
+    #offinptban {
+        width: 28%;
+        padding: 4px 8px 4px 23px;
+    }
+    #offinptimg {
+        left: -10%;
+        width: 14px;
+    }
+    #offinptarea {
+        width: 28%;
+    }
+    #offinptseh {
+        width: 61%;
+    }
+    .offhdlink {
+        font-size: 7px;
+        padding: 4px 7px 4px 7px;
+    }
+    #offinputsec {
+        position: relative;
+        left: 20px;
+    }
+    .offhdimg {
+        width: 18px;
+    }
+    #offcarousal1 .carousel-inner .carousel-item img {
+        width: 100%;
+    }
+    .offlable1 {
+        margin-left: 28px;
+    }
+    .offlable2 {
+        margin-left: 20px;
+    }
+    .offpara {
+        font-size: 13px;
+    }
+    #offsearch {
+        left: 38px;
+        top: 194px;
+    }
+    #offsd {
+        padding: 4px 12px 4px 22px;
+    }
+    p.offparas {
+        font-size: 11px;
+    }
+    #offsearch2 {
+        left: 38px;
+        top: 440px;
+    }
+    p.offpara {
+        font-size: 12px;
+    }
+    .offgallery {
+        left: -6px;
+    }
+    .overlay {
+        font-size: 10px;
+    }
+    .sec5p {
+        font-size: 7px;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+    .sec5hd {
+        font-size: 9px;
+    }
+    #cprt {
+        font-size: 10px;
+    }
+    .card2sp {
+        font-size: 26px;
+    }
+    #social_icons {
+        margin-left: 65%;
+    }
+} 
+@media only screen and (min-device-width: 530px) and (max-device-width: 540px) and (orientation: landscape){
+    #cprt {
+        text-align: center;
+    }
+    #social_icons {
+        margin-left: 34%;
+    }
+    .money {
+        width: 12%;
+    }
+    .offgallery {
+        left: 90px;
+        height: 197px;
+    }
+    .overlay {
+        bottom: 21px;
+    }    
+    #offsearch2 {
+        left: 83px;
+        top: 473px;
+    }
+    #offsearch {
+        left: 83px;
+    }
+    #angle-down {
+        margin-left: 340px;
+    }
+    .offlable1 {
+        margin-left: 325px;
+    }
+    .offlable2 {
+        margin-left: 316px;
+    }
+    #offfilterrow1 {
+        margin-top: 10px;
+    }
+}
+
+@media only screen and (min-device-width: 475px) and (max-device-width: 485px) and (orientation: landscape){
+    .offhdlink {
+        background-color: #ED741E;
+        font-size: 10px;
+        font-family: Product Sans;
+        padding: 2px 8px 2px 8px;
+        border-radius: 22px;
+        color: white;
+    }
+    #offlink {
+        margin-left: 138px;
+        margin-top: -229px;
+    }
+    .offhdimg {
+        width: 20px;
+    }
+    #offfilterrow1 {
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    .offgallery {
+        margin: auto;
+        height: 200px;
+    }
+    .money {
+        width: 16%;
+    }
+    .card2sp {
+        font-size: 38px;
+    }
+    #cprt {
+        text-align: center;
+    }
+    #social_icons {
+        margin: 0px 0px 10px 146px;
+    }
+    .overlay {
+        bottom: 25px;
+    }
+}
+
+@media only screen and (min-device-width: 730px) and (max-device-width: 770px) and (orientation: landscape)
+{
+    #offinputsec {
+        position: relative !important;
+        left: 58px !important;
+        padding-bottom: 20px !important;
+    }
+    #offinptimg {
+        left: -35px !important;
+        width: 12px !important;
+    }
+    #offinptban {
+        width: 25% !important;
+    }
+    #offinptarea {
+        width: 25% !important;
+    }
+    #offlogo img {
+        width: 70% !important;
+        margin-top: 10% !important;
+        margin-left: 66px !important;
+    }
+    #offlink {
+        margin-top: -203px !important;
+        margin-left: 172px !important;
+    }
+    /* #offcaro1 {
+        width: 120% !important;
+    } */
+    .offfilter {
+        width: 105%;
+    }
+    .image {
+        width: 107%;
+        height: 130px;
+    }
+    .offgallery {
+        height: 120px;
+    }
+    .sec5h6 {
+        font-size: 11px;
+    }
+    .sec5img {
+        width: 10% !important;
+    }
+    .sec5hd {
+        font-size: 10px;
+    }
+    #social_icons {
+        margin-left: 38%;
+    }
+    #cprt {
+        font-size: 15px;
+        text-align: center;
+    }
+}
+
+
+@media (min-width: 1500px) and (orientation: landscape){
+    #offlogo img {
+        width: 100%;
+        margin-top: 2%;
+        margin-left: -320px;
+    }
+    #offinputsec {
+        margin-left: -12%;
+        margin-top: 10px;
+        position: relative;
+        left: 110px;
+    }
+    #offlink {
+        margin-top: 25px;
+        position: relative;
+        left: 320px;
+    }
+    .offfilter {
+        margin-left: -250px;
+        width: 150%;
+    }
+    #offcaro1 {
+        width: 150%;
+        margin-left: -78px;
+    }
+    #offcarousal1 .carousel-inner .carousel-item img {
+        width: 100%;
+    }
+    .image {
+        width: 140%;
+        height: 220px;
+    }
+    .offgallery {
+        height: 224px;
+        top: 41px;
+        left: 70px;
+    }
+    .card {
+        width: 140%;
+        margin-left: -200px;
+    }
+    .overlay {
+        width: 140%;
+    }
+    .card2 {
+        width: 140%;
+        margin-left: -200px;
+    }
+    #cprt {
+        margin-left: -300px;
+    }
+    #social_icons {
+        position: relative;
+        left: 350px;
+    }    
+}
+
+/* landspape mode for all devices */
